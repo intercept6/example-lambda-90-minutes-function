@@ -6,3 +6,10 @@ node_modules
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+
+# Blog draft and screenshots (not published in this repo)
+blog.md
+screenshots/
+
+# playwright-cli session artifacts
+.playwright-cli/
